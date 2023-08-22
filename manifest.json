@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Chatgpt Summarizer",
+    "version": "1.0.1",
+    "author":"Kisung Chung",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Chatgpt Summarizer"
+    },
+    "default_locale": "en",
+    "description": "A plain text description",
+    "permissions": ["tabs"],
+    "icons": {}
+}

@@ -1,0 +1,7 @@
+{
+    "extensionName": {
+      "message": "chatgptsummarizer",
+      "description": "this extension allows user to summarize articles using chatGPT API"
+    }
+  }
+  
